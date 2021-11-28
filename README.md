@@ -18,12 +18,14 @@ Execute the program
 <!DOCTYPE html>
 <html>
 
+
    <head>
       <title>TIME TABLE</title>
    </head>
 	
    <body>
-       
+      <center>
+      <img src="logo.png" height="100" width="650"> 
        <font face="calibri">
       <table border = "1" cellspacing="1">
          <tr>
@@ -83,11 +85,13 @@ Execute the program
   
          
       </table>
+      PRADEESH S <br>
+      21500189
       </font>
-      
+      </center>
    </body>
 </html>
 ```
 # OUPUT
 
-![GitHub Logo](logo.png)
+![GitHub Logo](timetable.jpg)
